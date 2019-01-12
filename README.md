@@ -149,6 +149,7 @@ Tools that are not tied to a particular platform or language.
 - [Gephi](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 - [Lightning](http://lightning-viz.org/) - A data-visualization server providing API-based access to reproducible, web-based, interactive visualizations.
 - [RAW](http://rawgraphs.io) - Create web visualizations from CSV or Excel files.
+- [Treemappa GiCentre](http://www.treemappa.com/) - A standalone or Processing library to make 2d hierarchical bar charts or treemaps
 - [Spark](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
 
 # Resources
